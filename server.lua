@@ -1,7 +1,7 @@
 local adminList = {
-    ["license:xxxxxxxxxxxxxxxxxxxxxxxxxxxx"] = "OWNER",  -- Replace xxx with FiveM license
-    ["discord:yyyyyyyyyyyyyyyyyyyy"] = "ADMIN",  -- Replace yyyy with Discord ID
-    ["discord:yyyyyyyyyyyyyyyyyyyy"] = "TRIAL ADMIN", 
+    ["discord:yyyyyyyyyyyyyyyyyyyy"] = "OWNER", -- You can choose between using discord or license ["discord:yyy"], ["license:yyy"]
+    ["discord:yyyyyyyyyyyyyyyyyyyy"] = "ADMIN",
+    ["license:yyyyyyyyyyyyyyyyyyyy"] = "TRIAL ADMIN",
 }
 
 RegisterCommand("tag", function(source, args, rawCommand)
@@ -14,5 +14,5 @@ RegisterCommand("tag", function(source, args, rawCommand)
             return
         end
     end
-    TriggerClientEvent('chatMessage', playerId, 'SYSTEM', {255, 0, 0}, "You are not an admin!")
+    TriggerClientEvent('chatMessage', playerId, 'SYSTEM', {255, 0, 0}, "You are not admin!")
 end, false)

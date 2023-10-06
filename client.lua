@@ -20,7 +20,7 @@ Citizen.CreateThread(function()
             elseif adminRank == "ADMIN" then
                 Draw3DText(playerCoords.x, playerCoords.y, playerCoords.z + 1, msg, 255, 0, 0) -- Red
             elseif adminRank == "TRIAL ADMIN" then
-                Draw3DText(playerCoords.x, playerCoords.y, playerCoords.z + 1, msg, 0, 255, 0) -- Greem
+                Draw3DText(playerCoords.x, playerCoords.y, playerCoords.z + 1, msg, 0, 255, 0) -- Green
             end
         end
     end
