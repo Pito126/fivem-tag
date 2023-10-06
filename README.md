@@ -7,6 +7,9 @@ If someone who is not admin writes /tag it will write him a chat message that he
 # Color
 If you want to change color of the tag write it in RGB.
 # Ingame look
-
 Owner
-<img src="[https://github.com/yourusername/yourrepository/blob/main/path/to/image.jpg](https://media.discordapp.net/attachments/831163459432480788/1159876580542259271/20231006172940_1.jpg?ex=65329e3e&is=6520293e&hm=ca62fd1e7bf49360ddab167890b4f89099069e73dd595fc2d9503402d0db86f9&=&width=1202&height=676)https://media.discordapp.net/attachments/831163459432480788/1159876580542259271/20231006172940_1.jpg?ex=65329e3e&is=6520293e&hm=ca62fd1e7bf49360ddab167890b4f89099069e73dd595fc2d9503402d0db86f9&=&width=1202&height=676?raw=true" alt="My Cool Image" width="500">
+![20231006172940_1](https://github.com/Pito126/fivem-tag/assets/66220113/d2a73c1f-4f06-4081-9dbe-583e8fbbec2a)
+Admin
+![20231006173040_1](https://github.com/Pito126/fivem-tag/assets/66220113/c39ab4f7-8e6a-4035-9109-cf2dd4878fd6)
+Trial Admin
+![20231006173103_1](https://github.com/Pito126/fivem-tag/assets/66220113/21f42487-1eb8-4e4d-885e-a3688ad9845d)
